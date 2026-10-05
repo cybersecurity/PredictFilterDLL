@@ -1,0 +1,6 @@
+LIBRARY PredictFilterDLL
+EXPORTS
+    GetPredictVersion  @1
+    PosePredict        @2
+    PredictInitialImpl @3
+    PredictReleaseImpl @4
